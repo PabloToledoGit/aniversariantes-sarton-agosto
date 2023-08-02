@@ -1,0 +1,23 @@
+@import url(/css/styles.css);
+
+.nav__header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0rem 10rem 0rem 10rem;
+    padding: 1rem;
+}
+
+.titulo__header{
+
+    font-family: var(--font-titulo);
+    font-size: 1.3rem;
+}
+
+.botao__voltar__header{
+
+    text-decoration: none;
+    font-family: var(--font-titulo);
+    color: var(--cor-padrao);
+    font-size: 1.2rem;
+    
+}
