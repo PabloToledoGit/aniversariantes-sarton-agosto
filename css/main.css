@@ -1,0 +1,7 @@
+.secao__cards{
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 10rem;
+}
