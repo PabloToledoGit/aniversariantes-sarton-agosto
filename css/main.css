@@ -5,3 +5,30 @@
     gap: 1rem;
     margin-top: 10rem;
 }
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.div__card__text{
+
+    font-family: var(--font-titulo);
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+
+.div__card__text2{
+
+    font-size: 1rem;
+}
+
+.card{
+
+    padding: 1rem;
+    border: 1px ridge black;
+}
+
