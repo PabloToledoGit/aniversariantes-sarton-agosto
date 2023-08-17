@@ -1,33 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
-
-:root{
-
-    --font-titulo: 'Pangolin', cursive;
-    --cor-preta: #000000;
-}
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&display=swap');
 
 body{
 
-    box-sizing: border-box;
-    height: 100vh;
-    padding: 0rem 10rem 0rem 10rem;
-    background-color: #FAEEE7;
+    background-image: url(/img/plano-de-fundo.png);
 }
 
-@media (max-width: 800px){
-    body{
-
-        padding: 0;
-        display: flex;
-        flex-direction: column;
-        padding: 0rem 4rem 0rem 4rem;
-     
-    }
-
-    .nav__header{
-
-        margin: 0;
-        padding: 0;
-        
-    }
-}
